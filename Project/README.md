@@ -1,1 +1,1 @@
-## Matlab Code for Project: A Study and Comparison of Boosting Algorithms
+## Matlab Code and  for Project: A Study and Comparison of Boosting Algorithms
